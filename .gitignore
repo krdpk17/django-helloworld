@@ -6145,3 +6145,4 @@ website/website/__pycache__/wsgi.cpython-36.pyc
 .DS_Store
 website/music/static/.DS_Store
 website/music/static/music/.DS_Store
+website/music/templates/music/album_
