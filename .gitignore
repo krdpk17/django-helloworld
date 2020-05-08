@@ -6146,3 +6146,7 @@ website/website/__pycache__/wsgi.cpython-36.pyc
 website/music/static/.DS_Store
 website/music/static/music/.DS_Store
 website/music/templates/music/album_
+website/music/migrations/0003_remove_song_is_favourite.py
+website/music/migrations/0004_song_is_favourite.py
+website/music/migrations/__pycache__/0003_remove_song_is_favourite.cpython-36.pyc
+website/music/migrations/__pycache__/0004_song_is_favourite.cpython-36.pyc
